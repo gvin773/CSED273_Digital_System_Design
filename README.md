@@ -33,5 +33,5 @@ This course covers aspects of digital systems including the binary number system
  - 계수기(Counter)의 특성을 알아보고 다양한 종류의 계수기 구현
  
  ### Project - 4층 엘리베이터
-  - 일상적으로 사용되는 엘리베이터 구현 ([report](https://github.com/vincent773/CSED273_Digital_System_Design/blob/master/Project/project_report.pdf))
+  - 일상적으로 사용되는 엘리베이터 구현
  
